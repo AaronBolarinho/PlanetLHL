@@ -295,7 +295,7 @@ function createOneUserElement(resource){
                     <p class="card-text cardDescrView"> Description: ${resource.description} </p>
                   </section>
                   <section class="comment-container">
-                    <p class="card-text cardCommentView"> Comments: ${resource.comment} </p>
+                    <p class="card-text cardCommentView"> ${resource.users_name}: ${resource.comment} </p>
                   </section>
                 </div>
                 <div class="btn-group btnGroupView">
@@ -398,7 +398,7 @@ function attachLikes() {
   $(".buttonLike").on('click', function(){
     let resourceId = $(this).attr("name")
     event.preventDefault();
-    $(this).css('color', 'red') //Changes heart to red
+    //$(this).css('color', 'red') //Changes heart to red
       //Sends Ajax Request
         $.ajax({
                   url: `planetLHL/resources/${resourceId}/likes`,

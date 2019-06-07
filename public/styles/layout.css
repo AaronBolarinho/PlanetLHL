@@ -459,8 +459,8 @@ main {
   width: 130px;
   left: 38%;
   right: 35%;
-  margin-bottom: 30px;
-  bottom: 10%;
+  margin-bottom: 80px;
+  bottom: 20% !important;
 }
 
 .postComment {
@@ -468,8 +468,8 @@ main {
   background-color: white;
 }
 
-.card{
-  height: 1100px;
+.cardView{
+  height: 200px;
 }
 
 /*------------------*/

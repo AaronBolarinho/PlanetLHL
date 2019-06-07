@@ -45,7 +45,7 @@
     margin: 10%;
     color: white;
     background-color: #060607;
-    font-size: 150%;
+    font-size: 100%;
   }
   .Register:hover {
     font-size: 200%;
@@ -117,10 +117,10 @@
     margin: 10%;
     color: white;
     background-color: #060607;
-    font-size: 100%;
+    font-size: 80%;
     position: absolute;
-    right: 990px;
-    top: 479px;
+    top: 400px;
+    right: 920px;
     margin-top: 0px;
     margin-right: 0px;
     margin-left: 0px;
@@ -148,7 +148,7 @@
     transition-duration: 1s;
   }
   .showAll:hover {
-    font-size: 120%;
+    font-size: 100%;
     transition-duration: 1s;
   }
 
