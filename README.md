@@ -37,10 +37,10 @@ The two highlights of the project were:
 The four group members of this project had around 4 days to complete it; we all had fun and were proud of our final product - it was amazing what we could do from zero at course start to three weeks in!
 
 ### The Main Page
-![""](https://github.com/AaronBolarinho/PlanetLHL/blob/master/docs/Screenshot%20from%202019-06-07%2014-08-23.png)
+![""](https://github.com/AaronBolarinho/PlanetLHL/blob/master/docs/Screenshot%20from%202019-06-07%2015-34-57.png)
 
 ### The User Page
-![""](https://github.com/AaronBolarinho/PlanetLHL/blob/master/docs/Screenshot%20from%202019-06-07%2015-34-57.png)
+![""](https://github.com/AaronBolarinho/PlanetLHL/blob/master/docs/Screenshot%20from%202019-06-07%2014-08-23.png)
 
 ## Getting Started
 
